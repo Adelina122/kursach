@@ -1,0 +1,41 @@
+
+____________________________Information_about_Sellers____________________________
+
+Name-  Mark Potapov
+TypeOfFlowers- WithRoot
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Name-  Anna Volkova
+TypeOfFlowers- Cut
+
+____________________________Information_about_Flowers____________________________
+
+Seller- Mark Potapov
+Name- Aster
+TypeOfFlowers- WithRoot
+Sort- Small
+Season- Summer
+Colour- Pink
+Price- 238
+GrowingRoom- Orangery
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Seller- Anna Volkova
+Name- Rose
+TypeOfFlowers- Cut
+Sort- Carola
+Season- Spring
+Colour- Red
+Price- 120
+GrowingRoom- Orangery
+
+____________________________Information_about_Provider____________________________
+
+Seller- Mark Potapov
+TypeOfFlowers- WithRoot
+Name- Aster
+Country- Uk
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Seller- Anna Volkova
+TypeOfFlowers- Cut
+Name- Rose
+Country- Poland
+
